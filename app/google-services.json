@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "808040232887",
+    "project_id": "sendotp-55796",
+    "storage_bucket": "sendotp-55796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808040232887:android:932ab397a21b0d15ad5a32",
+        "android_client_info": {
+          "package_name": "poly.edu.vn.send_otp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808040232887-f50meiri477gtlb2e9jqr57ukd8e37a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poly.edu.vn.send_otp_login",
+            "certificate_hash": "30a9b3a17322a69c881d7a0960595e1fafc0a046"
+          }
+        },
+        {
+          "client_id": "808040232887-sn1msdn81a367e3to9131umvu1bs4ug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85zR0hS5-VnITJCTe_sACwYP6uuL6b0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808040232887-sn1msdn81a367e3to9131umvu1bs4ug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808040232887:android:29ccfdb2c6abac4fad5a32",
+        "android_client_info": {
+          "package_name": "poly.edu.vn.sendotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808040232887-sn1msdn81a367e3to9131umvu1bs4ug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85zR0hS5-VnITJCTe_sACwYP6uuL6b0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808040232887-sn1msdn81a367e3to9131umvu1bs4ug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
